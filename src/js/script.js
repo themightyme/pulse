@@ -16,6 +16,12 @@
 //     })
 // })
 
+// $(document).ready(function () {
+//     $(".owl-carousel").owlCarousel();
+// });
+
 $(document).ready(function () {
-    $(".owl-carousel").owlCarousel();
-});
+    $('.carousel__inner').slick({
+        setting- name: setting - value
+    });
+  });
